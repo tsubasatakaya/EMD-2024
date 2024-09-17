@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b7b5e8-8023-4e06-8c8d-36a6ff595b8f" name="Changes" comment="update .gitattributes" />
+    <list default="true" id="a1b7b5e8-8023-4e06-8c8d-36a6ff595b8f" name="Changes" comment="commit unversioned .xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +202,7 @@
       <workItem from="1725982817091" duration="9000" />
       <workItem from="1726122224159" duration="6000" />
       <workItem from="1726487027655" duration="353000" />
-      <workItem from="1726585371393" duration="1436000" />
+      <workItem from="1726585371393" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <option name="closed" value="true" />
@@ -292,7 +292,47 @@
       <option name="project" value="LOCAL" />
       <updated>1726586704805</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add .gitignore">
+      <option name="closed" value="true" />
+      <created>1726586946486</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726586946486</updated>
+    </task>
+    <task id="LOCAL-00013" summary="rename .gitignore">
+      <option name="closed" value="true" />
+      <created>1726587013504</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587013504</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add .gitattributes">
+      <option name="closed" value="true" />
+      <created>1726587122361</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587122361</updated>
+    </task>
+    <task id="LOCAL-00015" summary="modify data files">
+      <option name="closed" value="true" />
+      <created>1726587162888</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587162888</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit unversioned .xml">
+      <option name="closed" value="true" />
+      <created>1726587187163</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587187163</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,8 +364,12 @@
     <MESSAGE value="original files" />
     <MESSAGE value="commit unversioned .xml files" />
     <MESSAGE value="upload files" />
-    <MESSAGE value="add .gitattributes" />
     <MESSAGE value="update .gitattributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="update .gitattributes" />
+    <MESSAGE value="add .gitignore" />
+    <MESSAGE value="rename .gitignore" />
+    <MESSAGE value="add .gitattributes" />
+    <MESSAGE value="modify data files" />
+    <MESSAGE value="commit unversioned .xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit unversioned .xml" />
   </component>
 </project>
