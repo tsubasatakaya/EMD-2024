@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1b7b5e8-8023-4e06-8c8d-36a6ff595b8f" name="Changes" comment="commit unversioned .xml" />
+    <list default="true" id="a1b7b5e8-8023-4e06-8c8d-36a6ff595b8f" name="Changes" comment="add imbalance settlement session (week 4)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imbalance_settlement/week_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/imbalance_settlement/week_4.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -46,20 +56,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/TsubasaTakaya/OneDrive - FlexPower Energy/Documents/Python/Asset pricing/Asset pricing calculator/venv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "asgmt/balancing",
+    "last_opened_file_path": "C:/Users/TsubasaTakaya/OneDrive - FlexPower Energy/Documents/Python/Asset pricing/Asset pricing calculator/venv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "DSTables",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <option name="ENV_FILES" value="" />
@@ -183,8 +193,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.44" />
-        <option value="bundled-python-sdk-b49a3d4682c8-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.44" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
+        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
       </set>
     </attachedChunks>
   </component>
@@ -202,7 +212,12 @@
       <workItem from="1725982817091" duration="9000" />
       <workItem from="1726122224159" duration="6000" />
       <workItem from="1726487027655" duration="353000" />
-      <workItem from="1726585371393" duration="1998000" />
+      <workItem from="1726585371393" duration="8287000" />
+      <workItem from="1726594672099" duration="39000" />
+      <workItem from="1726838835369" duration="1875000" />
+      <workItem from="1726996312198" duration="226000" />
+      <workItem from="1727182345962" duration="5721000" />
+      <workItem from="1727190078026" duration="1342000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <option name="closed" value="true" />
@@ -332,7 +347,39 @@
       <option name="project" value="LOCAL" />
       <updated>1726587187163</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit after renaming directory">
+      <option name="closed" value="true" />
+      <created>1726587427763</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726587427763</updated>
+    </task>
+    <task id="LOCAL-00018" summary="create .ipynb file">
+      <option name="closed" value="true" />
+      <created>1726591647973</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726591647973</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update code">
+      <option name="closed" value="true" />
+      <created>1726594694501</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726594694501</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add imbalance settlement session (week 4)">
+      <option name="closed" value="true" />
+      <created>1727182398641</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727182398641</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,6 +417,10 @@
     <MESSAGE value="add .gitattributes" />
     <MESSAGE value="modify data files" />
     <MESSAGE value="commit unversioned .xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit unversioned .xml" />
+    <MESSAGE value="commit after renaming directory" />
+    <MESSAGE value="create .ipynb file" />
+    <MESSAGE value="update code" />
+    <MESSAGE value="add imbalance settlement session (week 4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add imbalance settlement session (week 4)" />
   </component>
 </project>
